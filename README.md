@@ -10,4 +10,4 @@ The folder includes exercises on:
 The libraries required to perform the exercises are:
 - Numpy (scientific computing)
 - Matplotlib (plotting)
-- [OpenMORe]{https://github.com/gdalessi/OpenMORe} (collection of Python modules for Model-Order-Reduction, clustering and classification)
+- [OpenMORe](https://github.com/gdalessi/OpenMORe) (collection of Python modules for Model-Order-Reduction, clustering and classification)
