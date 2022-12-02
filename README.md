@@ -13,3 +13,15 @@ The libraries required to perform the exercises are:
 - [OpenMORe](https://github.com/gdalessi/OpenMORe) (collection of Python modules for Model-Order-Reduction, clustering and classification)
 
 The datasets are available on MareNostrum at /gpfs/projects/nct00/nct00021/Data
+
+To connect to the cluster:
+
+'''console
+ssh -Y username@mn3.bsc.es
+'''
+
+To reserve an interactive session:
+
+'''console
+salloc -p interactive --x11
+'''
