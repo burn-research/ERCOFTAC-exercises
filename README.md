@@ -25,3 +25,10 @@ To reserve an interactive session:
 '''console
 salloc -p interactive --x11
 '''
+
+To load the numpy module
+
+module load miniconda3
+source activate spyder-notebook
+
+
