@@ -30,5 +30,5 @@ To load the numpy module
 
 module load miniconda3
 source activate spyder-notebook
-
+ulimit -Ss 10240 
 
